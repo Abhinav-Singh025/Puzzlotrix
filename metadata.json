@@ -1,0 +1,5 @@
+{
+  "name": "Puzzlotrix",
+  "description": "A high-performance puzzle platform with deterministic generation, dynamic grid sizes (up to 64x64), and advanced AI solvers for Sudoku, Mazes, N-Queens, and more.",
+  "requestFramePermissions": []
+}
